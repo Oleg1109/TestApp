@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:test_app/routs.dart';
 import 'package:test_app/start/start_screen.dart';
 
-
 void main() {
   runApp(MyApp());
 }
